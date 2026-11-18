@@ -1,3 +1,7 @@
 # This project is awesome :3
-insert specifications here 
+
+insert specifications here
 be awesome
+
+Sucheta
+
