@@ -1,5 +1,6 @@
 # This project is awesome :3
-insert specifications here 
-be awesome
 
+insert specifications here
+be awesome
 Flora
+Sucheta
